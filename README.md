@@ -1,2 +1,2 @@
-# Pithon-Katas
+# Python-Katas
 Katas introductorias LaunchX
